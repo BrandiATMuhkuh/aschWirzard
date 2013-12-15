@@ -1,0 +1,2 @@
+/home/jbr134/Documents/Development/aschWirzard/aschWizrd/build-sys-linux-x86_64/CMakeFiles/aschWizrd.dir
+/home/jbr134/Documents/Development/aschWirzard/aschWizrd/build-sys-linux-x86_64/CMakeFiles/test_aschWizrd.dir

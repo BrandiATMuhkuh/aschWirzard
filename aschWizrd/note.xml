@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Tools attr='money'>
+<child count='0' type='changeSlide' slideCount='0' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='0' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='1' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='2' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='3' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='4' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='5' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='6' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='7' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='8' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='9' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='10' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='11' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='12' />
+<child count='0' type='msWait' wait='456' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='A' />
+<child count='0' type='changeSlide' slideCount='13' />
+<child count='0' type='msWait' wait='389' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='A' />
+<child count='0' type='changeSlide' slideCount='14' />
+<child count='0' type='msWait' wait='888' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='A' />
+<child count='0' type='changeSlide' slideCount='15' />
+<child count='0' type='msWait' wait='590' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='A' />
+<child count='0' type='changeSlide' slideCount='16' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='17' />
+<child count='0' type='msWait' wait='646' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='C' />
+<child count='0' type='changeSlide' slideCount='18' />
+<child count='0' type='msWait' wait='980' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='C' />
+<child count='0' type='changeSlide' slideCount='19' />
+<child count='0' type='msWait' wait='669' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='C' />
+<child count='0' type='changeSlide' slideCount='20' />
+<child count='0' type='msWait' wait='943' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='C' />
+<child count='0' type='changeSlide' slideCount='21' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='22' />
+<child count='0' type='msWait' wait='773' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='B' correct='B' />
+<child count='0' type='changeSlide' slideCount='23' />
+<child count='0' type='msWait' wait='650' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='B' correct='B' />
+<child count='0' type='changeSlide' slideCount='24' />
+<child count='0' type='msWait' wait='1180' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='B' correct='B' />
+<child count='0' type='changeSlide' slideCount='25' />
+<child count='0' type='msWait' wait='767' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='B' correct='B' />
+<child count='0' type='changeSlide' slideCount='26' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='27' />
+<child count='0' type='msWait' wait='390' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='28' />
+<child count='0' type='msWait' wait='982' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='29' />
+<child count='0' type='msWait' wait='627' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='30' />
+<child count='0' type='msWait' wait='837' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='31' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='32' />
+<child count='0' type='msWait' wait='921' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='33' />
+<child count='0' type='msWait' wait='664' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='34' />
+<child count='0' type='msWait' wait='478' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='35' />
+<child count='0' type='msWait' wait='880' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='36' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='37' />
+<child count='0' type='msWait' wait='1398' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='38' />
+<child count='0' type='msWait' wait='706' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='39' />
+<child count='0' type='msWait' wait='514' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='40' />
+<child count='0' type='msWait' wait='1199' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='41' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='42' />
+<child count='0' type='msWait' wait='1014' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='43' />
+<child count='0' type='msWait' wait='425' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='44' />
+<child count='0' type='msWait' wait='685' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='45' />
+<child count='0' type='msWait' wait='1336' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='46' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='47' />
+<child count='0' type='msWait' wait='399' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='48' />
+<child count='0' type='msWait' wait='936' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='49' />
+<child count='0' type='msWait' wait='1389' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='50' />
+<child count='0' type='msWait' wait='404' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='51' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='52' />
+<child count='0' type='msWait' wait='1432' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='53' />
+<child count='0' type='msWait' wait='1315' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='54' />
+<child count='0' type='msWait' wait='1472' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='55' />
+<child count='0' type='msWait' wait='307' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='56' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='57' />
+<child count='0' type='msWait' wait='1127' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='58' />
+<child count='0' type='msWait' wait='327' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='59' />
+<child count='0' type='msWait' wait='1113' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='60' />
+<child count='0' type='msWait' wait='1064' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='61' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='62' />
+<child count='0' type='msWait' wait='673' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='63' />
+<child count='0' type='msWait' wait='1144' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='64' />
+<child count='0' type='msWait' wait='514' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='65' />
+<child count='0' type='msWait' wait='1154' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='66' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='67' />
+<child count='0' type='msWait' wait='569' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='68' />
+<child count='0' type='msWait' wait='783' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='69' />
+<child count='0' type='msWait' wait='947' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='70' />
+<child count='0' type='msWait' wait='1401' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='71' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='72' />
+<child count='0' type='msWait' wait='1318' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='73' />
+<child count='0' type='msWait' wait='775' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='74' />
+<child count='0' type='msWait' wait='1219' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='75' />
+<child count='0' type='msWait' wait='993' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='76' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='77' />
+<child count='0' type='msWait' wait='642' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='78' />
+<child count='0' type='msWait' wait='1494' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='79' />
+<child count='0' type='msWait' wait='433' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='80' />
+<child count='0' type='msWait' wait='1220' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='81' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='82' />
+<child count='0' type='msWait' wait='660' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='83' />
+<child count='0' type='msWait' wait='647' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='84' />
+<child count='0' type='msWait' wait='865' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='85' />
+<child count='0' type='msWait' wait='1320' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='B' correct='A' />
+<child count='0' type='changeSlide' slideCount='86' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='87' />
+<child count='0' type='msWait' wait='626' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='88' />
+<child count='0' type='msWait' wait='1250' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='89' />
+<child count='0' type='msWait' wait='650' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='90' />
+<child count='0' type='msWait' wait='1127' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='91' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='92' />
+<child count='0' type='msWait' wait='964' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='93' />
+<child count='0' type='msWait' wait='645' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='94' />
+<child count='0' type='msWait' wait='1049' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='95' />
+<child count='0' type='msWait' wait='987' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='96' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='97' />
+<child count='0' type='msWait' wait='1459' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='98' />
+<child count='0' type='msWait' wait='376' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='99' />
+<child count='0' type='msWait' wait='953' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='100' />
+<child count='0' type='msWait' wait='983' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='101' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='102' />
+<child count='0' type='msWait' wait='649' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='103' />
+<child count='0' type='msWait' wait='1406' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='104' />
+<child count='0' type='msWait' wait='627' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='105' />
+<child count='0' type='msWait' wait='1310' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='106' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='107' />
+<child count='0' type='msWait' wait='1028' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='108' />
+<child count='0' type='msWait' wait='1206' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='109' />
+<child count='0' type='msWait' wait='1025' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='110' />
+<child count='0' type='msWait' wait='710' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='111' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='112' />
+<child count='0' type='msWait' wait='910' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='113' />
+<child count='0' type='msWait' wait='1089' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='114' />
+<child count='0' type='msWait' wait='355' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='115' />
+<child count='0' type='msWait' wait='825' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='116' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='117' />
+<child count='0' type='msWait' wait='366' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='118' />
+<child count='0' type='msWait' wait='1295' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='119' />
+<child count='0' type='msWait' wait='378' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='120' />
+<child count='0' type='msWait' wait='534' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='121' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='122' />
+<child count='0' type='msWait' wait='649' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='123' />
+<child count='0' type='msWait' wait='1113' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='124' />
+<child count='0' type='msWait' wait='478' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='125' />
+<child count='0' type='msWait' wait='1147' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='B' correct='C' />
+<child count='0' type='changeSlide' slideCount='126' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='127' />
+<child count='0' type='msWait' wait='1291' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='128' />
+<child count='0' type='msWait' wait='389' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='129' />
+<child count='0' type='msWait' wait='448' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='130' />
+<child count='0' type='msWait' wait='1308' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='131' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='132' />
+<child count='0' type='msWait' wait='1200' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='133' />
+<child count='0' type='msWait' wait='894' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='134' />
+<child count='0' type='msWait' wait='534' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='135' />
+<child count='0' type='msWait' wait='657' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='136' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='137' />
+<child count='0' type='msWait' wait='1453' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='138' />
+<child count='0' type='msWait' wait='1098' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='139' />
+<child count='0' type='msWait' wait='537' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='140' />
+<child count='0' type='msWait' wait='319' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='141' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='142' />
+<child count='0' type='msWait' wait='811' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='143' />
+<child count='0' type='msWait' wait='331' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='144' />
+<child count='0' type='msWait' wait='1367' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='145' />
+<child count='0' type='msWait' wait='1476' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='146' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='147' />
+<child count='0' type='msWait' wait='1455' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='148' />
+<child count='0' type='msWait' wait='1433' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='149' />
+<child count='0' type='msWait' wait='730' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='150' />
+<child count='0' type='msWait' wait='1402' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='151' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='152' />
+<child count='0' type='msWait' wait='301' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='153' />
+<child count='0' type='msWait' wait='414' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='154' />
+<child count='0' type='msWait' wait='1360' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='155' />
+<child count='0' type='msWait' wait='864' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='C' />
+<child count='0' type='changeSlide' slideCount='156' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='157' />
+<child count='0' type='msWait' wait='617' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='158' />
+<child count='0' type='msWait' wait='1275' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='159' />
+<child count='0' type='msWait' wait='1274' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='160' />
+<child count='0' type='msWait' wait='746' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='161' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='162' />
+<child count='0' type='msWait' wait='753' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='163' />
+<child count='0' type='msWait' wait='974' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='164' />
+<child count='0' type='msWait' wait='852' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='165' />
+<child count='0' type='msWait' wait='645' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='A' />
+<child count='0' type='changeSlide' slideCount='166' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='167' />
+<child count='0' type='msWait' wait='1208' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='168' />
+<child count='0' type='msWait' wait='977' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='169' />
+<child count='0' type='msWait' wait='1127' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='170' />
+<child count='0' type='msWait' wait='1072' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='C' correct='B' />
+<child count='0' type='changeSlide' slideCount='171' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='172' />
+<child count='0' type='msWait' wait='1258' />
+<child count='0' type='robotSayAsch' robotNr='0' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='173' />
+<child count='0' type='msWait' wait='1449' />
+<child count='0' type='robotSayAsch' robotNr='1' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='174' />
+<child count='0' type='msWait' wait='1113' />
+<child count='0' type='robotSayAsch' robotNr='2' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='175' />
+<child count='0' type='msWait' wait='1238' />
+<child count='0' type='robotSayAsch' robotNr='3' sayWhat='A' correct='B' />
+<child count='0' type='changeSlide' slideCount='176' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='177' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='178' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='179' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='180' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='181' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='182' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='183' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='184' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='185' />
+<child count='0' type='msWait' wait='889' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='look' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='186' />
+<child count='0' type='msWait' wait='1036' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='ask' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='187' />
+<child count='0' type='msWait' wait='1091' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='call' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='188' />
+<child count='0' type='msWait' wait='478' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='seem' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='189' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='190' />
+<child count='0' type='msWait' wait='528' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='want' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='191' />
+<child count='0' type='msWait' wait='681' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='turn' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='192' />
+<child count='0' type='msWait' wait='1142' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='change' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='193' />
+<child count='0' type='msWait' wait='754' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='try' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='194' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='195' />
+<child count='0' type='msWait' wait='840' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='use' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='196' />
+<child count='0' type='msWait' wait='716' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='walk' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='197' />
+<child count='0' type='msWait' wait='866' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='stop' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='198' />
+<child count='0' type='msWait' wait='1008' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='work' hardEasy='cor' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='199' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='200' />
+<child count='0' type='msWait' wait='315' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='kneel' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='201' />
+<child count='0' type='msWait' wait='700' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='plead' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='202' />
+<child count='0' type='msWait' wait='1173' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='dream' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='203' />
+<child count='0' type='msWait' wait='1005' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='leap' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='204' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='205' />
+<child count='0' type='msWait' wait='1201' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='spill' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='206' />
+<child count='0' type='msWait' wait='954' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='spell' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='207' />
+<child count='0' type='msWait' wait='972' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='smell' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='208' />
+<child count='0' type='msWait' wait='1220' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='spoil' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='209' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='210' />
+<child count='0' type='msWait' wait='1042' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='sink' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='211' />
+<child count='0' type='msWait' wait='1284' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='shrink' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='212' />
+<child count='0' type='msWait' wait='751' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='spring' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='213' />
+<child count='0' type='msWait' wait='1349' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='sing' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='214' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='215' />
+<child count='0' type='msWait' wait='347' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='knit' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='216' />
+<child count='0' type='msWait' wait='699' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='bust' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='217' />
+<child count='0' type='msWait' wait='1276' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='cost' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='218' />
+<child count='0' type='msWait' wait='902' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='spit' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='219' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='220' />
+<child count='0' type='msWait' wait='1023' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='heave' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='221' />
+<child count='0' type='msWait' wait='1143' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='drive' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='222' />
+<child count='0' type='msWait' wait='1146' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='dive' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='223' />
+<child count='0' type='msWait' wait='961' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='weave' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='224' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='225' />
+<child count='0' type='msWait' wait='533' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='kneel' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='226' />
+<child count='0' type='msWait' wait='824' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='leap' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='227' />
+<child count='0' type='msWait' wait='805' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='lean' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='228' />
+<child count='0' type='msWait' wait='625' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='plead' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='229' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='230' />
+<child count='0' type='msWait' wait='1187' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='spill' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='231' />
+<child count='0' type='msWait' wait='964' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='learn' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='232' />
+<child count='0' type='msWait' wait='1160' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='spoil' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='233' />
+<child count='0' type='msWait' wait='1372' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='smell' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='234' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='235' />
+<child count='0' type='msWait' wait='431' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='shrink' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='236' />
+<child count='0' type='msWait' wait='1420' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='sing' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='237' />
+<child count='0' type='msWait' wait='447' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='ring' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='238' />
+<child count='0' type='msWait' wait='1106' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='sink' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='239' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='240' />
+<child count='0' type='msWait' wait='1012' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='knit' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='241' />
+<child count='0' type='msWait' wait='837' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='spit' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='242' />
+<child count='0' type='msWait' wait='704' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='wet' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='243' />
+<child count='0' type='msWait' wait='843' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='cost' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='244' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='245' />
+<child count='0' type='msWait' wait='1321' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='thrive' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='246' />
+<child count='0' type='msWait' wait='965' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='dive' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='247' />
+<child count='0' type='msWait' wait='1021' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='heave' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='248' />
+<child count='0' type='msWait' wait='1079' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='drive' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='249' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='250' />
+<child count='0' type='msWait' wait='1327' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='plead' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='251' />
+<child count='0' type='msWait' wait='456' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='dream' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='252' />
+<child count='0' type='msWait' wait='1365' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='kneel' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='253' />
+<child count='0' type='msWait' wait='922' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='lean' hardEasy='hard' scheme='v' />
+<child count='0' type='changeSlide' slideCount='254' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='255' />
+<child count='0' type='msWait' wait='1143' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='spell' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='256' />
+<child count='0' type='msWait' wait='670' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='learn' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='257' />
+<child count='0' type='msWait' wait='689' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='smell' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='258' />
+<child count='0' type='msWait' wait='1367' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='spill' hardEasy='hard' scheme='nt' />
+<child count='0' type='changeSlide' slideCount='259' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='260' />
+<child count='0' type='msWait' wait='1331' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='ring' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='261' />
+<child count='0' type='msWait' wait='466' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='sink' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='262' />
+<child count='0' type='msWait' wait='1453' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='spring' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='263' />
+<child count='0' type='msWait' wait='552' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='sing' hardEasy='hard' scheme='ung' />
+<child count='0' type='changeSlide' slideCount='264' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='265' />
+<child count='0' type='msWait' wait='1000' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='knit' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='266' />
+<child count='0' type='msWait' wait='483' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='wet' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='267' />
+<child count='0' type='msWait' wait='418' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='bust' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='268' />
+<child count='0' type='msWait' wait='906' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='cost' hardEasy='hard' scheme='id' />
+<child count='0' type='changeSlide' slideCount='269' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='270' />
+<child count='0' type='msWait' wait='1248' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='weave' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='271' />
+<child count='0' type='msWait' wait='814' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='heave' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='272' />
+<child count='0' type='msWait' wait='1157' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='thrive' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='273' />
+<child count='0' type='msWait' wait='1133' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='dive' hardEasy='hard' scheme='ove' />
+<child count='0' type='changeSlide' slideCount='274' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='275' />
+<child count='0' type='msWait' wait='643' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='leave' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='276' />
+<child count='0' type='msWait' wait='503' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='think' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='277' />
+<child count='0' type='msWait' wait='439' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='make' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='278' />
+<child count='0' type='msWait' wait='993' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='bring' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='279' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='280' />
+<child count='0' type='msWait' wait='1377' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='find' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='281' />
+<child count='0' type='msWait' wait='1248' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='hear' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='282' />
+<child count='0' type='msWait' wait='1087' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='say' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='283' />
+<child count='0' type='msWait' wait='729' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='take' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='284' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='285' />
+<child count='0' type='msWait' wait='1090' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='come' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='286' />
+<child count='0' type='msWait' wait='353' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='sit' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='287' />
+<child count='0' type='msWait' wait='1083' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='feel' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='288' />
+<child count='0' type='msWait' wait='1087' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='know' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='289' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='290' />
+<child count='0' type='msWait' wait='1388' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='see' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='291' />
+<child count='0' type='msWait' wait='874' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='hold' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='292' />
+<child count='0' type='msWait' wait='1264' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='get' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='293' />
+<child count='0' type='msWait' wait='1437' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='give' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='294' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='295' />
+<child count='0' type='msWait' wait='523' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='hit' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='296' />
+<child count='0' type='msWait' wait='1154' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='go' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='297' />
+<child count='0' type='msWait' wait='909' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='tell' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='298' />
+<child count='0' type='msWait' wait='784' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='put' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='299' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='300' />
+<child count='0' type='msWait' wait='1320' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='think' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='301' />
+<child count='0' type='msWait' wait='716' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='lose' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='302' />
+<child count='0' type='msWait' wait='549' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='leave' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='303' />
+<child count='0' type='msWait' wait='495' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='make' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='304' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='305' />
+<child count='0' type='msWait' wait='623' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='take' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='306' />
+<child count='0' type='msWait' wait='733' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='stand' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='307' />
+<child count='0' type='msWait' wait='758' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='find' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='308' />
+<child count='0' type='msWait' wait='1136' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='say' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='309' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='310' />
+<child count='0' type='msWait' wait='1264' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='keep' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='311' />
+<child count='0' type='msWait' wait='1301' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='feel' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='312' />
+<child count='0' type='msWait' wait='1438' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='come' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='313' />
+<child count='0' type='msWait' wait='1245' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='know' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='314' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='315' />
+<child count='0' type='msWait' wait='350' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='write' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='316' />
+<child count='0' type='msWait' wait='446' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='get' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='317' />
+<child count='0' type='msWait' wait='331' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='see' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='318' />
+<child count='0' type='msWait' wait='1288' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='give' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='319' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='320' />
+<child count='0' type='msWait' wait='492' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='read' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='321' />
+<child count='0' type='msWait' wait='651' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='put' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='322' />
+<child count='0' type='msWait' wait='391' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='go' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='323' />
+<child count='0' type='msWait' wait='631' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='tell' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='324' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='325' />
+<child count='0' type='msWait' wait='522' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='make' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='326' />
+<child count='0' type='msWait' wait='633' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='think' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='327' />
+<child count='0' type='msWait' wait='559' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='bring' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='328' />
+<child count='0' type='msWait' wait='316' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='lose' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='329' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='330' />
+<child count='0' type='msWait' wait='353' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='stand' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='331' />
+<child count='0' type='msWait' wait='1479' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='take' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='332' />
+<child count='0' type='msWait' wait='826' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='hear' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='333' />
+<child count='0' type='msWait' wait='789' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='say' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='334' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='335' />
+<child count='0' type='msWait' wait='1108' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='sit' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='336' />
+<child count='0' type='msWait' wait='1085' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='come' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='337' />
+<child count='0' type='msWait' wait='944' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='know' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='338' />
+<child count='0' type='msWait' wait='400' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='keep' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='339' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='340' />
+<child count='0' type='msWait' wait='734' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='write' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='341' />
+<child count='0' type='msWait' wait='1462' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='get' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='342' />
+<child count='0' type='msWait' wait='329' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='hold' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='343' />
+<child count='0' type='msWait' wait='344' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='see' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='344' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='345' />
+<child count='0' type='msWait' wait='1100' />
+<child count='0' type='robotSayWord' robotNr='0' sayWhat='tell' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='346' />
+<child count='0' type='msWait' wait='380' />
+<child count='0' type='robotSayWord' robotNr='1' sayWhat='read' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='347' />
+<child count='0' type='msWait' wait='1124' />
+<child count='0' type='robotSayWord' robotNr='2' sayWhat='go' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='348' />
+<child count='0' type='msWait' wait='1378' />
+<child count='0' type='robotSayWord' robotNr='3' sayWhat='hit' hardEasy='easy' scheme='undefined' />
+<child count='0' type='changeSlide' slideCount='349' />
+<child count='0' type='input' />
+<child count='0' type='changeSlide' slideCount='350' />
+<child count='0' type='input' />
+</Tools>

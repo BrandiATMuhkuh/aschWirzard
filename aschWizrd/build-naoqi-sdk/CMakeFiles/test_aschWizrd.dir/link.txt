@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/test_aschWizrd.dir/test.cpp.o  -o sdk/bin/test_aschWizrd -rdynamic 
